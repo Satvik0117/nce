@@ -1,0 +1,56 @@
+<%- include('partials/header'); -%>
+
+<div class="container">
+    <h2>Exercise</h2>
+    
+    
+    
+    
+    <a href="/admin/add-exercise" class="btn btn-primary"> Add Exercise </a>
+    
+    
+    
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th scope="col">Name</th>
+          <th scope="col">Body Parts</th>
+          <th scope="col">Equip</th>
+
+          <th scope="col">Diff</th>
+        </tr>
+      </thead>
+      <tbody>
+    <%ex.forEach(function(cat){ %>
+    
+        <tr id="<%=cat._id%>">
+          <td> <%=cat.name%></td>
+          <!-- <td> <a ="/admin/categories/edit-category/<%=cat._id%>" >Edit </a></td>
+          <td> <a class="confirmDeletion" href="/admin/categories/delte-category/<%=cat._id%>" >Delete </a></td> -->
+          <td> <%=cat.bd%></td>
+          <td> <%=cat.eq%></td>
+
+          <td> <%=cat.diff%></td>
+          <td><img style="width:100px;height:100px;" src="/uploads/<%=cat.image_path%>" ></td>
+
+          <td>
+            <form style="display: inline" method="POST" action="/admin/exercise/delete/<%=cat._id%>">
+                <button id="delete_button" type="submit">
+                    <i class="fa fa-trash-o" style="font-size:28px;color:red"></i>
+                
+                </button>
+            </form>
+        </td>
+       
+    
+    </tr>
+    <% }); %>
+        
+      </tbody>
+    </table>
+        
+    
+    </div>
+
+
+<%- include('partials/footer'); -%>

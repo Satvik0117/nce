@@ -1,0 +1,54 @@
+<%- include('partials/header'); -%>
+
+<div class="container">
+    <h2>Users</h2>
+    
+    
+    
+    
+    <a href="/admin/add-user" class="btn btn-primary"> Add Users </a>
+    
+    
+    
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th scope="col">Users</th>
+          <!-- <th scope="col">Edit</th>
+          <th scope="col">Delete</th> -->
+        </tr>
+      </thead>
+      <tbody>
+    <%user.forEach(function(cat){ %>
+    
+        <tr id="<%=cat._id%>">
+          <td> <%=cat.name%></td>
+          <td> <%=cat.email%></td>
+          <td> <%=cat.password%></td>
+          <td> <%=cat.address%></td>
+          <td> <%=cat.number%></td>
+          <td> <%=cat.certi_id%></td>
+          <td> <%=cat.course%></td>
+          <!-- <td> <a ="/admin/categories/edit-category/<%=cat._id%>" >Edit </a></td>
+          <td> <a class="confirmDeletion" href="/admin/categories/delte-category/<%=cat._id%>" >Delete </a></td> -->
+        <td>
+            <form style="display: inline" method="POST" action="/admin/user/delete/<%=cat._id%>">
+                <button id="delete_button" type="submit">
+                    <i class="fa fa-trash-o" style="font-size:28px;color:red"></i>
+                
+                </button>
+            </form>
+        </td>
+       
+    
+    </tr>
+    <% }); %>
+        
+      </tbody>
+    </table>
+        
+    
+    </div>
+
+
+<%- include('partials/footer'); -%>
