@@ -1,0 +1,1622 @@
+[
+        {
+            "bd": "Abdominals - Lower",
+            "name": "Full Reverse Crunch",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Lower",
+            "name": "Incline Hip Thrust",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Lower",
+            "name": "Incline Reverse Crunch",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Lower",
+            "name": "Lying Hip Thrust",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Lower",
+            "name": "Reverse Crunch",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Lower",
+            "name": "Reverse Medicine Ball Crunch",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Obliques",
+            "name": "Alternating Heel Touch",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Obliques",
+            "name": "Bent-Knee Medicine Ball Hip Rotation",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Obliques",
+            "name": "Cable Chop",
+            "diff": "Advanced",
+            "eq": "C"
+        },
+        {
+            "bd": "Abdominals - Obliques",
+            "name": "Cross Crunch",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Obliques",
+            "name": "Cross Crunch w/ Medicine Ball",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Obliques",
+            "name": "Decline Cross Sit-Up",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Obliques",
+            "name": "Decline Sit-Up w/ Twist",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Obliques",
+            "name": "Reverse Cable Chop",
+            "diff": "Advanced",
+            "eq": "C"
+        },
+        {
+            "bd": "Abdominals - Obliques",
+            "name": "Seated Medicine Ball Twist",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Obliques",
+            "name": "Trunk Rotator",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Total",
+            "name": "Front Plank (from knees)",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Total",
+            "name": "Front Plank (from toes)",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Total",
+            "name": "Front Plank (tripod - 1 arm and 2 legs or 2 legs and 1 arm)",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Total",
+            "name": "Side-Plank (from knees)",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Total",
+            "name": "Side-Plank (hip lift)",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Total",
+            "name": "Side-Plank (from toes)",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Total",
+            "name": "Ab Cycle",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Total",
+            "name": "Kneeling Ab Rollout",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Total",
+            "name": "Medicine Ball V-Up",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Total",
+            "name": "V-Up",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Total",
+            "name": "Weighted V-Up",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Upper",
+            "name": "Bent Knee Sit-Up",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Upper",
+            "name": "Bent-Knee Crunch",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Upper",
+            "name": "Crunch",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Upper",
+            "name": "Crunch",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Upper",
+            "name": "Decline Crunch",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Upper",
+            "name": "Decline Sit-Up",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Upper",
+            "name": "Heel Touch",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Upper",
+            "name": "Sit-Up",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Abdominals - Upper",
+            "name": "Weighted Crunch",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Latissimus Dorsi",
+            "name": "Assisted Pull-Up",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Latissimus Dorsi",
+            "name": "Close-Grip Lat Pulldown",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Back - Latissimus Dorsi",
+            "name": "Inverted Pull-Up",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Latissimus Dorsi",
+            "name": "Lat Pulldown",
+            "diff": "Beginner",
+            "eq": "C"
+        },
+        {
+            "bd": "Back - Latissimus Dorsi",
+            "name": "Pull-Up",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Latissimus Dorsi",
+            "name": "Reverse-Grip Lat Pullown",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Back - Latissimus Dorsi",
+            "name": "Reverse-Grip Pull-Up",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Latissimus Dorsi",
+            "name": "V-Bar Pull-Up",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Latissimus Dorsi",
+            "name": "Wide-Grip Lat Pulldown",
+            "diff": "Beginner",
+            "eq": "C"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Bent-Over Alternating Dumbbell Row",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Bent-Over Barbell Row",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Bent-Over Dumbbell Row",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Bent-Over Hammer Dumbbell Row",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Bent-Over Long Barbell Row",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Bent-Over Reverse-Grip Barbell Row",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Bent-Over Single-Arm Long Barbell Row",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Machine Row",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "One Arm Dumbbell Row",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Reverse Incline Dumbbell Row",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Rope Cable Row",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Seated Cable Row",
+            "diff": "Beginner",
+            "eq": "C"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Seated Row",
+            "diff": "Beginner",
+            "eq": "C"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Single-Arm Cable Row",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Single-Arm Dumbbell Row",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Single-Arm Lat Pulldown",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Standing Cable Row",
+            "diff": "Beginner",
+            "eq": "C"
+        },
+        {
+            "bd": "Back - Lat.Dorsi/Rhomboids",
+            "name": "Standing Single-Arm Cable Row",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Alternating Dumbbell Curl",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Alternating Hammer Curl",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Barbell Curl",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Bicep Curl",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Bottom/Top/Full Curls",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Cable Curl",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Concentration Dumbbell Curl",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Cross Body Hammer Curl",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Dumbbell Curl",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "EZ-Bar Curl",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Hammer Curl",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Incline Alternating Dumbbell Curl",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Incline Alternating Hammer Curl",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Incline Dumbbell Curl",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Incline Hammer Curl",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Kneeling Cable Curl",
+            "diff": "Beginner",
+            "eq": "C"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Lying Cable Curl",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Lying Double Biceps Cable Curl",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Lying High Cable Curl",
+            "diff": "Advanced",
+            "eq": "C"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Machine Curl",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Overhead Double Biceps Cable Curl",
+            "diff": "Advanced",
+            "eq": "C"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Overhead Rope Cable Curl",
+            "diff": "Advanced",
+            "eq": "C"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Preacher Barbell Curl",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Preacher Cable Curl",
+            "diff": "Advanced",
+            "eq": "C"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Preacher Dumbbell Curl",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Preacher EZ-Bar Curl",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Preacher Hammer Dumbbell Curl",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Preacher Single-Arm Dumbbell Curl",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Reverse Curl",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Rope Cable Curl",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Seated Alternating Curl",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Seated Alternating Hammer Curl",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Seated Dumbbell Curl",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Seated Hammer Curl",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Single-Arm Barbell Curl",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Single-Arm Cable Curl",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Single-Arm Dumbbell Curl w/ Incline Bench",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Biceps",
+            "name": "Spider Curl",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Calves - Gastrocnemius",
+            "name": "Barbell Calf Raise",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Calves - Gastrocnemius",
+            "name": "Calf Press",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Calves - Gastrocnemius",
+            "name": "Calf Raise - Seated",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Calves - Gastrocnemius",
+            "name": "Calf Raise - Standing",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Calves - Gastrocnemius",
+            "name": "Dumbbell Calf Raise",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Calves - Gastrocnemius",
+            "name": "Single-Leg Calf Press",
+            "diff": "Advanced",
+            "eq": "M"
+        },
+        {
+            "bd": "Calves - Gastrocnemius",
+            "name": "Single-Leg Dumbbell Calf Raise",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Calves - Gastrocnemius",
+            "name": "Smith Machine Calf Raise",
+            "diff": "Intermediate",
+            "eq": "M"
+        },
+        {
+            "bd": "Calves - Soleus",
+            "name": "Seated Calf Raise",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Calves - Soleus",
+            "name": "Seated Single-Leg Calf Raise",
+            "diff": "Intermediate",
+            "eq": "M"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Alternating Dumbbell Bench Press",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Barbell Bench Press",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Chest Press",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Decline Dumbbell Bench Press",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Decline Smith Machine Bench Press",
+            "diff": "Advanced",
+            "eq": "M"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Dumbbell Bench Press",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Dumbbell Push-Up",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Elevated Push-Up",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Flat Bench Press",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Incline Alternating Dumbbell Bench Press",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Incline Barbell Bench Press",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Incline Bench Press",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Incline Dumbbell Bench Press",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Incline Hammer Dumbbell Bench Press",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Incline Single-Arm Dumbbell Bench Press",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Incline Smith Machine Bench Press",
+            "diff": "Advanced",
+            "eq": "M"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Incline Twisting Dumbbell Bench Press",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Kneeling Push-Up",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Machine Bench Press",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Machine Vertical Bench Press",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Medicine Ball Crossover Push-Up",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Push-Up",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Single-Arm Dumbbell Bench Press",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Smith Machine Bench Press",
+            "diff": "Intermediate",
+            "eq": "M"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Twisting Dumbbell Bench Press",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Wide-Grip Push-Up",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Cable Crossover",
+            "diff": "Advanced",
+            "eq": "C"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Cable Fly",
+            "diff": "Advanced",
+            "eq": "C"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Decline Dumbbell Fly",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Dumbbell Fly",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "High Cable Crossover",
+            "diff": "Advanced",
+            "eq": "C"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Incline Cable Fly",
+            "diff": "Advanced",
+            "eq": "C"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Incline Dumbbell Fly",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Incline Twisting Dumbbell Fly",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Low Cable Crossover",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Pec Deck",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Chest - Pectoralis",
+            "name": "Pec Deck Fly",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Legs - Hamstrings",
+            "name": "Bent-Knee Single-Leg Hip Lift",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Hamstrings",
+            "name": "Elevated Hip Lift",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Hamstrings",
+            "name": "Elevated Single-Leg Hip Lift",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Hamstrings",
+            "name": "Hip Lift",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Hamstrings",
+            "name": "Single-Leg Hip Lift",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Hamstrings",
+            "name": "Deadlift",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Hamstrings",
+            "name": "Leg Curl",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Legs - Hamstrings",
+            "name": "Lying Alternating Leg Curl",
+            "diff": "Intermediate",
+            "eq": "M"
+        },
+        {
+            "bd": "Legs - Hamstrings",
+            "name": "Lying Leg Curl",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Legs - Hamstrings",
+            "name": "Lying Single-Leg Curl",
+            "diff": "Intermediate",
+            "eq": "M"
+        },
+        {
+            "bd": "Legs - Hamstrings",
+            "name": "Seated Leg Curl",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Barbell Diagonal Lunge",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Barbell Hack Squat",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Barbell Lunge",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Barbell Reverse Lunge",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Barbell Side Lunge",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Barbell Split Squat",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Barbell Squat",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Barbell Step-Up",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Barbell Walking Lunge",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Diagonal Lunge",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Dumbbell Diagonal Lunge",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Dumbbell Lunge",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Dumbbell Reverse Lunge",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Dumbbell Side Lunge",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Dumbbell Split Squat",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Dumbbell Squat",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Dumbbell Step-Up",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Dumbbell Walking Lunge",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Forward Lunge",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Lateral Barbell Squat",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Lateral Barbell Step-Up",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Lateral Squat",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Lateral Step-Up",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Leg Press",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Lunge",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Lying Machine Squat",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Machine Hack Squat",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Reverse Lunge",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Single-Arm Barbell Side Squat",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Single-Arm Dumbbell Side Squat",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Single-Leg Barbell Squat",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Single-Leg Box Squat",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Single-Leg Dumbbell Box Squat",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Single-Leg Dumbbell Squat",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Single-Leg Squat",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Smith Machine Squat",
+            "diff": "Intermediate",
+            "eq": "M"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Split Squat",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Step-Up",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Walking Lunge",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Alternating Leg Extension",
+            "diff": "Intermediate",
+            "eq": "M"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Leg Extension",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Legs - Quadriceps",
+            "name": "Single-Leg Extension",
+            "diff": "Intermediate",
+            "eq": "M"
+        },
+        {
+            "bd": "Lower Back - Erector Spinae",
+            "name": "Alternating Superman",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Lower Back - Erector Spinae",
+            "name": "Back Raise",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Lower Back - Erector Spinae",
+            "name": "Quadruped Alternating Superman",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Lower Back - Erector Spinae",
+            "name": "Superman",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Lower Back - Erector Spinae",
+            "name": "Superman Hold",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Arnold Dumbbell Press",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Barbell Shoulder Press",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Dumbbell Alternating Shoulder Press",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Dumbbell Front Raise",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Dumbbell Shoulder Press",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Dumbbell Twisting Shoulder Press",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Machine Shoulder Press",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Seated Dumbbell Rear Delt Elbow Raise",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Single-Arm Dumbbell Shoulder Press",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Smith Machine Shoulder Press",
+            "diff": "Advanced",
+            "eq": "M"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Barbell Front Raise",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Bent-Over Cable Rear Delt Raise",
+            "diff": "Advanced",
+            "eq": "C"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Bent-Over Dumbbell Rear Delt Raise",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Cable Front Raise",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Cable Lateral Raise",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Dumbbell Lateral Raise",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Front Plate Raise",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Kneeling Single-Arm Cable Rear Delt Raise",
+            "diff": "Advanced",
+            "eq": "C"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Lying Dumbbell External Rotation",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Lying Dumbbell Rear Delt Raise",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Lying Single-Arm Dumbbell Rear Delt Raise",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Pec Deck Real Delt Extensions",
+            "diff": "Intermediate",
+            "eq": "M"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Reverse Incline Dumbbell Rear Delt Raise",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Seated Dumbbell Rear Delt Raise",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Shoulders - Delts/Traps",
+            "name": "Single-Arm Cable Lateral Raise",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Shoulders - Rotator Cuff",
+            "name": "Cable External Rotation",
+            "diff": "Beginner",
+            "eq": "C"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Close-Grip Bench Press",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Forward Lean Dips",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Assisted Dips",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Bench Dips",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Diamond Push-Up",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Dips",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Machine Dips",
+            "diff": "Beginner",
+            "eq": "M"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Decline Dumbbell Triceps Extension",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Decline EZ-Bar Tricep Extension",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Decline Single Dumbbell Triceps Extension",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Decline Single-Arm Dumbbell Triceps Extension",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Dumbbell Kickback",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Incline EZ-Bar Tricep Extension",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Kneeling Cable Triceps Extension",
+            "diff": "Beginner",
+            "eq": "C"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Leaning Overhead Tricep Extension",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Low Cable Triceps Extension",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Lying Cable Triceps Extension",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Lying EZ-Bar Triceps Extension",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Lying Overhead EZ-Bar Tricep Extension",
+            "diff": "Intermediate",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Lying Reverse EZ-Bar Triceps Extension",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Lying Single Dumbbell Triceps Extension",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Lying Single-Arm Dumbbell Triceps Extension",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Lying Tricep Extensions",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Overhead Dumbbell Triceps Extension",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Overhead EZ-Bar Triceps Extension",
+            "diff": "Advanced",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Overhead Rope Cable Tricep Extension",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Overhead Single Dumbbell Tricep Extension",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Overhead Single-Arm Cable Tricep Extension",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Overhead Single-Arm Dumbbell Tricep Extension",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Reverse Tricep Pushdown",
+            "diff": "Advanced",
+            "eq": "C"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Rope Triceps Pushdown",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Single-Arm Towel Triceps Pushdown",
+            "diff": "Beginner",
+            "eq": "C"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Single-Arm Triceps Pushdown",
+            "diff": "Intermediate",
+            "eq": "C"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Towel Triceps Pushdown",
+            "diff": "Beginner",
+            "eq": "C"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Tricep Extensions",
+            "diff": "Beginner",
+            "eq": "FW"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Tricep Pushdown",
+            "diff": "Beginner",
+            "eq": "C"
+        },
+        {
+            "bd": "Triceps",
+            "name": "Tricep Pushdown",
+            "diff": "Beginner",
+            "eq": "C"
+        },
+        {
+            "bd": "Triceps",
+            "name": "V-Bar Tricep Pushdown",
+            "diff": "Beginner",
+            "eq": "C"
+        }
+    ]

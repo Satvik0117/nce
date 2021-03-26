@@ -30,7 +30,9 @@ router.get('/contact',(req,res)=>{
 });
 router.get('/tools',(req,res)=>{
     Ex.find((err,ex) => {
+
         if(err) return console.log(err);
+        // console.log(ex);
         res.render('exercise.ejs', {ex:ex});
     })
 });
