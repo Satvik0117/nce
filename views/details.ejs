@@ -90,30 +90,20 @@
                         </div>
                             <div style="margin-top: 15px;" class="row">
                                 <% if(user.length > 0){ %>
-                                    <table class="table">
-                                    <thead>
-                                      <tr>
-                                        <th scope="col">Name</th>
-                                        <th scope="col">Email-ID</th>
-                                        <th scope="col">Certifcate-ID</th>
-                                        <th scope="col">Course</th>
-                                      </tr>
-                                    </thead>
-                                    <tbody>
                                     <%user.forEach(function(cat){ %>
 
-                                      <tr>
-                                        <td> <%=cat.name%></td>
-                                          <!-- <td> <a ="/admin/categories/edit-category/<%=cat._id%>" >Edit </a></td>
-                                          <td> <a class="confirmDeletion" href="/admin/categories/delte-category/<%=cat._id%>" >Delete </a></td> -->
-                                          <td> <%=cat.email%></td>
-                                          <td> <%=cat.certi_id%></td>
-                                          <td> <%=cat.course%></td>
-                                      </tr>
+                                <div style="width:800px; height:600px; padding:20px; text-align:center; border: 10px solid #787878">
+                                    <div style="width:750px; height:550px; padding:20px; text-align:center; border: 5px solid #787878">
+                                           <span style="font-size:50px; font-weight:bold">Certificate of Completion</span>
+                                           <br><br>
+                                           <span style="font-size:25px"><i>This is to certify that</i></span>
+                                           <br><br>
+                                           <span style="font-size:30px"><b><%=cat.name%></b></span><br/><br/>
+                                           <span style="font-size:25px"><i>has completed the course</i></span> <br/><br/>
+                                           <span style="font-size:30px"><%=cat.course%></span> <br/><br/>
+                                    </div>
+                                    </div>
                                     <% }); %>
-                                      
-                                    </tbody>
-                                  </table>
                                   <% }else{ %>
 
                                     <h3 class="text-danger">The Certificate ID you are looking for does not exist.</h3>
